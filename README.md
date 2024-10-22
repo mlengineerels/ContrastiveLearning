@@ -26,7 +26,10 @@ The methodology is as follows:
 Visualization of Learned Representations
 The learned representations can be visualized using t-SNE or UMAP to observe how well the model separates different classes in the latent space.
 
-### Step by step implementation can be found in scripts/ipynb notebook
+## Usage
+Can be used in training/ pretraining of Large Multi Models (LMM)
+
+### Step-by-step implementation can be found in scripts/ipynb notebook
 
 
 
